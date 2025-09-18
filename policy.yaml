@@ -1,0 +1,4 @@
+name: projects/fine-ring-471921-b2/policies/iam.disableServiceAccountKeyCreation
+spec:
+  rules:
+  - enforce: false

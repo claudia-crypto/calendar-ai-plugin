@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Calendar AI",
+  "name_for_model": "calendar_ai",
+  "description_for_human": "Helps schedule meetings and check availability in Google Calendar.",
+  "description_for_model": "Plugin for managing a Google Calendar: list events, create meetings, and check availability.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://YOUR_DOMAIN/plugin/openapi.json"
+  },
+  "logo_url": "https://YOUR_DOMAIN/plugin/logo.png",
+  "contact_email": "your-email@example.com",
+  "legal_info_url": "https://your-domain.com/legal"
+}
+
