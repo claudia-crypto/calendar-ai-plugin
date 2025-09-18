@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Calendar AI",
+  "name_for_model": "calendar_ai",
+  "description_for_human": "Manage and schedule your events with Google Calendar through ChatGPT.",
+  "description_for_model": "A plugin to list, create, and manage events in Google Calendar. Supports checking availability and scheduling new meetings.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://claudia-crypto.github.io/calendar-ai-plugin/plugin/openapi.yaml"
+  },
+  "logo_url": "https://claudia-crypto.github.io/calendar-ai-plugin/plugin/logo.png",
+  "contact_email": "claudia@amariventure.com",
+  "legal_info_url": "https://claudia-crypto.github.io/calendar-ai-plugin/legal"
+}
+
